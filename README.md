@@ -1,13 +1,6 @@
 # Biorhythm Calculator
 
-The example uses:
-  Ionic
-  React
-  Dayjs
-  cordova-res
-  recharts
- 
- It is takes a date of birth and calculates the biorhythm to whatever date the user selects. 
+The example uses: Ionic, React, Dayjs, cordova-res, and recharts. It is takes a date of birth and calculates the biorhythm to whatever date the user selects. Local storage is used to maintain the user's selected date of birth. 
 
 ## Links
 
